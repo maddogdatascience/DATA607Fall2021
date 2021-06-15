@@ -1,2 +1,2 @@
 # DATA607Fall2021
-DATA 607 Fall 2021
+Data Acquisition and Management
